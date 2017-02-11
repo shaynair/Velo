@@ -912,15 +912,6 @@ a.btn-cta {
     .members-wrapper .item:last-child {
         margin-bottom: 0;
     }
-    .hero-carousel {
-        height: 660px;
-    }
-    .hero-section .carousel-inner {
-        height: 660px;
-    }
-    .hero-carousel .carousel-inner .item {
-        height: 660px;
-    }
     .testimonials-section .item .profile-image {
         width: 60px;
         height: 60px;
